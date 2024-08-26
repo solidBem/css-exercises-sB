@@ -2,6 +2,10 @@ body {
   font-family: 'Courier New', Courier, monospace;
 }
 
+.text, .title {
+  text-align: center;
+}
+
 img {
   width: 100px;
   height: 100px;
