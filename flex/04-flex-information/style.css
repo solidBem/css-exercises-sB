@@ -4,17 +4,11 @@ body {
   flex-direction: column;
   align-items: center;
   gap: 32px;
-}
-
-.text {
   text-align: center;
 }
 
 
 .plant {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
   width: 200px;
 }
 
@@ -30,6 +24,7 @@ img {
 
 .plants {
   display: flex;
+  justify-content: center;
   gap: 52px;
 }
 /* do not edit this footer */
