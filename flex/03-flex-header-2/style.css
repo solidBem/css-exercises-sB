@@ -67,4 +67,5 @@ ul {
   display: flex;
   gap: 16px;
   margin-left: auto;
+  align-items: center;
 }
