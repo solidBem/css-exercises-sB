@@ -47,4 +47,14 @@ a {
 
 ul {
   list-style-type: none;
+  /* My code */
+  display: flex;
+}
+
+.left-side {
+  display: flex;
+}
+
+.right-side {
+  display: flex;
 }
