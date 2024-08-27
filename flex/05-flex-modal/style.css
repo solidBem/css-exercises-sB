@@ -81,5 +81,9 @@ button.cancel {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  margin-bottom: 10px;
 }
 
+.text {
+  margin-bottom: 15px;
+}
