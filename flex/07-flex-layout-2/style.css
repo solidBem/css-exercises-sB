@@ -21,6 +21,9 @@ body {
   height: 72px;
   background: #eee;
   color: darkmagenta;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .sidebar {
@@ -38,4 +41,5 @@ body {
 .container {
   margin: 0;
   display: flex;
+  flex: 1;
 }
