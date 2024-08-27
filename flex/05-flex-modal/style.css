@@ -68,7 +68,13 @@ button.cancel {
   color: royalblue;
 }
 
+.header {
+  font-weight: bold;
+  font-size: 20px;
+}
+
 .top-line {
   display: flex;
   justify-content: space-between;
+  align-items: center;
 }
