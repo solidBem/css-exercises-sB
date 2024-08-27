@@ -41,12 +41,9 @@ body {
 }
 
 .container {
-  margin: 0;
   display: flex;
   flex: 1;
 }
-
-
 
 .sidebar a {
   text-decoration: none;
@@ -65,9 +62,8 @@ li {
 }
 
 .card-container {
-  padding: 64px;
+  padding: 48px;
   display: flex;
-  flex-direction: row;
   flex-wrap: wrap;
   gap: 32px;
 }
