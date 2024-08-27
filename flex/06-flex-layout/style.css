@@ -36,6 +36,10 @@ a {
   color: grey;
 }
 
+button {
+  padding: 8px 20px;
+}
+
 .header, .footer {
   display: flex;
   justify-content: space-between;
