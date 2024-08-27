@@ -25,7 +25,15 @@ input {
   width: 400px;
 }
 
-.header {
+ul {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+  color: grey;
+}
+.header, .footer {
   display: flex;
   justify-content: space-between;
   align-items: center;
